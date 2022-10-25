@@ -1,0 +1,1 @@
+"# bot-creator"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/justdie386/bot-creator.gitgit push -u origin main
