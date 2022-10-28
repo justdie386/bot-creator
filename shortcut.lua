@@ -1,2 +1,2 @@
-local data = {"Your token", e, e, e}
+local data = { 'Bot bbgd', 'e', 'eec', 'ccb', 'goofy aaah}
  return data
