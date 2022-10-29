@@ -5,7 +5,6 @@ local commandType = dia.enums.appCommandType
 local optionType = dia.enums.appCommandOptionType
 dia.extensions()
 local client = dia.Client{
-    logFile = 'mybot.log',
     cacheAllMembers = true,
 }:useApplicationCommands()
 dia.extensions()
@@ -183,4 +182,4 @@ end)
 end
 else interaction:reply("You aren't a staff don't even try") end
 end)
-client:run("Bot "..data[1])
+client:run(data[1])
