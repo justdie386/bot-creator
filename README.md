@@ -27,3 +27,5 @@ Thats it, you are all set, just need to click on that sweet sweet launch button,
 inside of the project folder called discordia.log, should tell you whats wrong, but you can always open an issue about it if you can't figure it out
 
 Enjoy and have a g'day!
+
+Note that the main files are outdated, just get the one from release.
