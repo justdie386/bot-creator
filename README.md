@@ -12,6 +12,7 @@ Token is the token of the bot you want the script to run into
 https://www.writebots.com/discord-bot-token/
 
 logs is the channel in which commands will be logged
+
 https://turbofuture.com/internet/Discord-Channel-ID
 
 
