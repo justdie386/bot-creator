@@ -90,9 +90,33 @@ local function initializeCommands(guild)
             },
         })
     end
+    local function initializeCommands4(guild)
+        local command, err = client:createGuildApplicationCommand(guild.id, {
+            type = commandType.chatInput,
+            name = "dm",
+            description = ".",
+            options = {
+                {
+                    type = optionType.subCommand,
+                    name = " id",
+                    description = "Enter the id",
+                    required = true,
+                    options = {
+                        {
+                            type = optionType.string,
+                            name = "content",
+                            description = "id",
+                            required = true,
+                        },
+                    },
+                },
+            },
+        })
+        end
+        
 client:on("ready", function()
     for guild in client.guilds:iter() do
-
+        initializeCommands4(guild)
         initializeCommands(guild)
         initializeCommands2(guild)
         initializeCommands1(guild)
@@ -182,4 +206,4 @@ end)
 end
 else interaction:reply("You aren't a staff don't even try") end
 end)
-client:run(data[1])
+client:run("Bot NzQxMzI4ODk4NTU3NzM5MTUw.GxK8lw.GRY_tTq4nuiUUOsRbQUzCH1KH5O5fOb9xKwDJo")
