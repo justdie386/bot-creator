@@ -1113,3 +1113,14 @@
 2022-11-14 19:11:01 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/741328898557739150/guilds/988167454024937482/commands
 2022-11-14 19:11:03 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/741328898557739150/guilds/1041514834996510752/commands
 2022-11-14 19:11:05 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/741328898557739150/guilds/802914516542554153/commands
+2022-11-14 19:12:41 | [INFO]    | Discordia 2.9.2
+2022-11-14 19:12:41 | [INFO]    | Connecting to Discord...
+2022-11-14 19:12:41 | [INFO]    | Authenticated as Ink#3645
+2022-11-14 19:12:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-11-14 19:12:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-11-14 19:12:41 | [INFO]    | Shard 0 : Received HELLO
+2022-11-14 19:12:41 | [INFO]    | Shard 0 : Received READY
+2022-11-14 19:12:42 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/741328898557739150/guilds/988167454024937482/commands
+2022-11-14 19:12:43 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/741328898557739150/guilds/1041514834996510752/commands
+2022-11-14 19:12:46 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/741328898557739150/guilds/802914516542554153/commands
+2022-11-14 19:12:48 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/741328898557739150/guilds/838198385210294273/commands

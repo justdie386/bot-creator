@@ -16,8 +16,6 @@ A channel in which it will log it
 
 TODO
 
-Add a console, so that you may see why the bot crashes, as it currently closes as soon as it dies
-
 Add more role id as 4 isn't currently a lot
 
 Improve the ui
