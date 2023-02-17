@@ -1,3 +1,5 @@
+ NOTE: works on wine :D
+
 This is a gui to self host a bot that will auto-enlist people by giving them certain roles, using a slash command, and it will log it into a discord channel.
 
 Required
